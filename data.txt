@@ -1,3 +1,6 @@
-#잠온다
-#게임 재밌다
-# 더 놀고싶다
+#include<stdio.h>
+
+int main(void)
+{
+    printf("Hello World");
+ }
